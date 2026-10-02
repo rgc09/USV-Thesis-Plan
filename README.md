@@ -1,6 +1,5 @@
 [README (1).md](https://github.com/user-attachments/files/32980100/README.1.md)
-# Tuning ArduPilot Speed and Heading Control for Small Unmanned Surface Vehicles
-
+# Tuning ArduPilot Speed and Heading Control for Small Unmanned Surface Vehicles: A Systematic Approach Grounded in Classical Control Theory
 
 
  Platform: Pro Boat Blackjack 42 running ArduPilot Rover on a Cube Orange+. Target completion: June 2027.
