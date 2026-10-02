@@ -5,11 +5,11 @@
 
  Platform: Pro Boat Blackjack 42 running ArduPilot Rover on a Cube Orange+. Target completion: June 2027.
 ## Thesis Overview
-- **[Thesis overview](Thesis_Overview.pdf)**: problem, research questions, expected contributions, and research plan ([Word version](Thesis_Overview.docx)).
+- **[Thesis overview](Thesis_Overview.pdf)**: Problem, research questions, expected contributions, and research plan ([Word version](Thesis_Overview.docx)).
 
 ## Research plan
 
-- **[Interactive research plan](https://rgc09.github.io/USV-Thesis-Plan/)**: click any step in the flowchart to see what it involves and why it is needed.
+- **[Interactive research plan](https://rgc09.github.io/USV-Thesis-Plan/)**: Click any step in the flowchart to see what it involves and why it is needed.
 
 <p align="center"><img src="waterfall.png" alt="Research plan" width="700"></p>
 
