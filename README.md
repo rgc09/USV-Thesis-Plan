@@ -1,9 +1,9 @@
 [README (1).md](https://github.com/user-attachments/files/32980100/README.1.md)
 # Tuning ArduPilot Speed and Heading Control for Small Unmanned Surface Vehicles
 
-**A Systematic Approach Grounded in Classical Control Theory**
 
-NPS MAE thesis. Platform: Pro Boat Blackjack 42 running ArduPilot Rover on a Cube Orange+. Target completion: June 2027.
+
+ Platform: Pro Boat Blackjack 42 running ArduPilot Rover on a Cube Orange+. Target completion: June 2027.
 
 ## Research plan
 
