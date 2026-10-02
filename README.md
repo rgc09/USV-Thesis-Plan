@@ -6,8 +6,8 @@ NPS MAE thesis. Platform: Pro Boat Blackjack 42 running ArduPilot Rover on a Cub
 
 ## Research plan
 
-- **[Interactive research plan](https://rgc09.github.io/usv-thesis-plan/)**: click any step in the flowchart to see what it involves and why it is needed.
-- **[Clickable PDF version](USV_Thesis_Plan_Interactive.pdf)**: download it and open it in a browser or PDF reader; click any block to jump to its page.
+- **[Interactive research plan](https://rgc09.github.io/USV-Thesis-Plan/)**: click any step in the flowchart to see what it involves and why it is needed.
+- **[Clickable PDF version](https://rgc09.github.io/USV-Thesis-Plan/USV_Thesis_Plan_Interactive.pdf)**: opens in the browser; click any block to jump to its page.
 
 <p align="center"><img src="img/waterfall.png" alt="Research plan" width="700"></p>
 
