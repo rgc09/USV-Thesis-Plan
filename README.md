@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/32975913/README.1.md)
 # Tuning ArduPilot Speed and Heading Control for Small Unmanned Surface Vehicles
 
 **A Systematic Approach Grounded in Classical Control Theory**
@@ -7,7 +6,8 @@ NPS MAE thesis. Platform: Pro Boat Blackjack 42 running ArduPilot Rover on a Cub
 
 ## Research plan
 
-**[Interactive research plan](https://rgc09.github.io/USV-Thesis-Plan/)**: click any step in the flowchart to see what it involves and why it is needed.
+- **[Thesis overview](docs/Thesis_Overview.pdf)**: problem, research questions, expected contributions, and research plan ([Word version](docs/Thesis_Overview.docx)).
+- **[Interactive research plan](https://rgc09.github.io/USV-Thesis-Plan/)**: click any step in the flowchart to see what it involves and why it is needed.
 
 <p align="center"><img src="img/waterfall.png" alt="Research plan" width="700"></p>
 
